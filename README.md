@@ -1,3 +1,3 @@
 
-# H1 Akhil J P
-## H2 Mechanical Engineer
+# Akhil J P
+## Mechanical Engineer
