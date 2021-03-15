@@ -7,4 +7,5 @@ Applied research based principles to drive the design of products that fully sup
 - Conducted market research to obtain specific design goals
 -  Developed of a conceptual design,3d modelling, motion study and failure analysis 
 -  Selection of parts, design optimization for manufacturing and prototyping
+
  ![CAD view](https://github.com/akhiljp5352/akhiljp5352/blob/main/images/com_CAD_frnt%20(1).JPG)
